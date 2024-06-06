@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.1.6](https://github.com/enriquegq-arkeero/test/compare/v1.1.5...v1.1.6) (2024-06-06)
+
+
+### Bug Fixes
+
+* **blabla.js:** test ([3d75acf](https://github.com/enriquegq-arkeero/test/commit/3d75acf38f7ca31ac3453c37f1297cec28874207))
+
 ## [1.1.5](https://github.com/enriquegq-arkeero/test/compare/v1.1.4...v1.1.5) (2024-06-06)
 
 ## [1.1.4](https://github.com/enriquegq-arkeero/test/compare/v1.1.3...v1.1.4) (2024-06-06)
